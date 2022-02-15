@@ -1,0 +1,4 @@
+baseURL = 'https://christchurchcityweightlifting.github.io'
+languageCode = 'en-us'
+title = 'Christchurch City Weighlifting'
+theme = "ananke"
