@@ -1,4 +1,4 @@
-baseURL = 'https://christchurchcityweightlifting.github.io'
+baseURL = 'https://christchurchcityweightlifting.github.io/'
 languageCode = 'en-us'
 title = 'Christchurch City Weightlifting'
 theme = "ananke"
