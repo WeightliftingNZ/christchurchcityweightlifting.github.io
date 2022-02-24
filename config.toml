@@ -1,4 +1,12 @@
 baseURL = 'https://christchurchcityweightlifting.github.io/'
 languageCode = 'en-us'
 title = 'Christchurch City Weightlifting'
-theme = "ananke"
+theme = "hugo-hero-theme"
+
+[params.homepage_meta_tags]
+meta_description = "Weightlifting"
+# meta_og_title = "My Theme"
+meta_og_type = "website"
+meta_og_url = "https://www.christchurchcityweightlifting.org.nz"
+# meta_og_image = ""
+# meta_og_description = "a description of your website."
